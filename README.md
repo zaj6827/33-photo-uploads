@@ -13,12 +13,10 @@
 ## Requirements  
 #### backend setup
 * use [sluggram](http://github.com/slugbyte/sluggram) 
-* or use your mid 401 project
-
  
 #### Feature Tasks 
 * Create a SettingsContainer
-  * give the user the ablity to create or update thier profile
+  * give the user the ablity to create thier profile
   
 * Create a DashboardContainer
   * give the user the abilty to create, read, update and destroy photos
@@ -28,6 +26,7 @@
 * Test your util methods
 
 ## Bonus 2pts
+* Add the ability for users to update their profile
 * Create full crud for two resources 
 
 ####  Documentation  
