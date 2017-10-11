@@ -21,10 +21,6 @@
 * Create a DashboardContainer
   * give the user the abilty to create, read, update and destroy photos
 
-#### Test
-* Test your redux reducers 
-* Test your util methods
-
 ## Bonus 2pts
 * Add the ability for users to update their profile
 * Create full crud for two resources 
